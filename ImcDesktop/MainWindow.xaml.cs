@@ -24,5 +24,15 @@ namespace ImcDesktop
         {
             InitializeComponent();
         }
+
+        private void calcularButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void limpiarbutton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
