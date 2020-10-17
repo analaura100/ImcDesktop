@@ -28,7 +28,7 @@
                 <TextBlock Text="Peso normal" x:Name="situaciontextblock" Margin="8" HorizontalAlignment="Center" FontSize="16"/>
             </StackPanel>
         </GroupBox>
-        <Button x:Name="salirbutton" Content="salir" HorizontalAlignment="Center" Margin="8" MinWidth="100"/>
+        <Button x:Name="salirbutton" Content="salir" HorizontalAlignment="Center" Margin="8" MinWidth="100" Click="salirbutton_Click"/>
     </StackPanel>
     
 
